@@ -1,4 +1,4 @@
 # The Odin Project
-# Odin Recipes project
+## Odin Recipes project
 
-# Objective: learn HMTL and CSS
+## Objective: learn HMTL and CSS
